@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MarkkusAurelius/react-todo-project/static/css/main.dffbdddf.chunk.css",
+    "main.js": "/MarkkusAurelius/react-todo-project/static/js/main.8b255ee9.chunk.js",
+    "main.js.map": "/MarkkusAurelius/react-todo-project/static/js/main.8b255ee9.chunk.js.map",
+    "runtime-main.js": "/MarkkusAurelius/react-todo-project/static/js/runtime-main.71e82d5a.js",
+    "runtime-main.js.map": "/MarkkusAurelius/react-todo-project/static/js/runtime-main.71e82d5a.js.map",
+    "static/js/2.dfd9ef50.chunk.js": "/MarkkusAurelius/react-todo-project/static/js/2.dfd9ef50.chunk.js",
+    "static/js/2.dfd9ef50.chunk.js.map": "/MarkkusAurelius/react-todo-project/static/js/2.dfd9ef50.chunk.js.map",
+    "index.html": "/MarkkusAurelius/react-todo-project/index.html",
+    "static/css/main.dffbdddf.chunk.css.map": "/MarkkusAurelius/react-todo-project/static/css/main.dffbdddf.chunk.css.map",
+    "static/js/2.dfd9ef50.chunk.js.LICENSE.txt": "/MarkkusAurelius/react-todo-project/static/js/2.dfd9ef50.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71e82d5a.js",
+    "static/js/2.dfd9ef50.chunk.js",
+    "static/css/main.dffbdddf.chunk.css",
+    "static/js/main.8b255ee9.chunk.js"
+  ]
+}
